@@ -1,5 +1,24 @@
-# CorporatePartnersPres
+# **Corporate Partners Presentation 🎤📊**
 
-In my undergraduate business analytics capstone course, I worked on this presentation with a primary goal: to communicate data-driven insights effectively. Since most of the analysis was already completed for us, the challenge lay in transforming raw findings into compelling visual stories that resonated with a business audience. I used Tableau to craft clear and engaging data visualizations that highlighted key takeaways. My work led to me being selected as one of a few students to present to corporate partners of the Business Analytics Advisory Board. Through this experience, I enhanced both my public speaking skills and my ability to create meaningful visualizations in Tableau.
+### **Overview**  
+In my undergraduate **Business Analytics Capstone** course, I developed this presentation to effectively **communicate data-driven insights** to a business audience. Since most of the analysis was already provided, my focus was on transforming raw findings into **engaging visual stories** using **Tableau**.  
 
-[Click here to view the presentation](https://github.com/DunnAnalytics/CorporatePartnersPres/blob/main/Case5PPT_AshtonDunn.pdf)
+I was honored to be selected as one of a few students to present to the **corporate partners of the Business Analytics Advisory Board**. This experience strengthened my skills in:  
+✅ **Public Speaking & Presentation** – Delivering insights clearly and confidently.  
+✅ **Data Visualization in Tableau** – Designing intuitive, impactful dashboards.  
+✅ **Storytelling with Data** – Translating complex findings into meaningful narratives.  
+
+---
+
+### 📌 **View the Presentation**  
+📄 **Click below to access my slides:**  
+👉 [**View the Presentation**](https://github.com/DunnAnalytics/CorporatePartnersPres/blob/main/Case5PPT_AshtonDunn.pdf)  
+
+---
+
+### 🔗 **Explore More**  
+🔹 Check out my **Analytics Portfolio** on GitHub: [DunnAnalytics](https://dunnanalytics.github.io/portfolio/)  
+🔹 Connect with me on [LinkedIn](https://www.linkedin.com/in/ashtondunn/)
+
+---
+
