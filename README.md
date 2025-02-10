@@ -11,7 +11,6 @@ I was honored to be selected as one of a few students to present to the **corpor
 ---
 
 ### 📌 **View the Presentation**  
-📄 **Click below to access my slides:**  
 👉 [**View the Presentation**](https://github.com/DunnAnalytics/CorporatePartnersPres/blob/main/Case5PPT_AshtonDunn.pdf)  
 
 ---
